@@ -1,0 +1,49 @@
+_repo: Arcadian-Adventures-with-the-Idle-Rich_4020
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leacock, Stephen
+    alias: Leacock, Stephen Butler
+    birthdate: 1869
+    deathdate: 1944
+    gutenberg_agent_id: '1221'
+    url: http://www.gutenberg.org/2009/agents/1221
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Leacock
+description: "Arcadian Adventures with the Idle Rich is a work of humorous fiction\
+  \ by Stephen Leacock first published in 1914. It is the follow-up to his 1912 classic\
+  \ Sunshine Sketches of a Little Town. Like that work, it is a sequence of interlocking\
+  \ stories set in one town, but instead of focusing on a small Canadian town in the\
+  \ countryside, it is set in a major American metropolis and its characters are the\
+  \ upper crust of society.\nAlthough currently not as well known as the earlier book,\
+  \ Arcadian Adventures was extremely popular in North America at the time of its\
+  \ publication and for a while was considered the greater success. It was also translated\
+  \ and published by the Bolshevik government soon after the 1917 revolution and it\
+  \ became a bestseller in the Soviet Union.\nThe fourth story in the book features\
+  \ a character that caricatures the religious leader 'Abdu'l-Bahá, who visited Leacock's\
+  \ resident city of Montreal in 1912.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4020'
+  wikidata: Q4785183
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Capitalists and financiers -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcsh 'Rich people -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Satire'
+- GITenberg
+tableOfContents: A little dinner with Mr. Lucullus Fyshe -- The wizard of finance
+  -- The arrested philanthropy of Mr. Tomlinson -- The Yahi-Bahi Oriental Society
+  of Mrs. Rasselyer-Brown -- The love story of Mr. Peter Spillikins -- The rival churches
+  of St. Asaph and St. Osoph -- The ministrations of the Rev. Uttermust Dumfarthing
+  -- The great fight for clean government.
+title: Arcadian Adventures with the Idle Rich
+url: http://www.gutenberg.org/ebooks/4020
+wikipedia:
+- https://en.wikipedia.org/wiki/Arcadian_Adventures_with_the_Idle_Rich
