@@ -1,5 +1,8 @@
 _repo: Arcadian-Adventures-with-the-Idle-Rich_4020
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Leacock, Stephen
@@ -21,6 +24,8 @@ description: "Arcadian Adventures with the Idle Rich is a work of humorous ficti
   \ became a bestseller in the Soviet Union.\nThe fourth story in the book features\
   \ a character that caricatures the religious leader 'Abdu'l-Bahá, who visited Leacock's\
   \ resident city of Montreal in 1912.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4020#Arcadian-Adventures-with-the-Idle-Rich
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2003-05-01'
 gutenberg_type: Text
